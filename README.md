@@ -1,5 +1,3 @@
-# bonx
-
 ## Build Setup
 
 ```bash
