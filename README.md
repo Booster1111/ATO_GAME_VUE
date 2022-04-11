@@ -16,6 +16,9 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+## screenshot
+![bonx-vue-js-gaming-website-template-with-nuxt](https://user-images.githubusercontent.com/89033750/162652235-185665a9-f9ac-4fa3-ba2d-1a4bc5fd9f7d.png)
+![bonx-vue-js-gaming-website-template-with-nuxt1](https://user-images.githubusercontent.com/89033750/162652243-04f39862-70d5-471d-b819-94041dc2ae86.png)
 
 ## Special Directories
 
